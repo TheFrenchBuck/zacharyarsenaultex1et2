@@ -1,4 +1,5 @@
 {
+  "homepage-ghp": "https://thefrenchbuck.github.io/za_application_monopage_signets/",
   "name": "zacharyarsenault",
   "version": "0.1.0",
   "private": true,
@@ -38,6 +39,6 @@
       "last 1 safari version"
     ]
   },
-  "homepage-info": "Avant de déployer sur GitHub Pages vous devez configurer correctement la propriété homepage ci-dessous : 1) retirer le suffixe '-inactif' de l'étiquette, et 2) remplacer 'code-utilisateur' par le nom de votre compte GitHub et 'nom-de-depot-github' par le nom de votre dépôt GitHub dans la valeur de la propriété..",
-  "homepage-ghp": "https://thefrenchbuck.github.io/za_application_monopage_signets/"
+  "homepage-info": "Avant de déployer sur GitHub Pages vous devez configurer correctement la propriété homepage ci-dessous : 1) retirer le suffixe '-inactif' de l'étiquette, et 2) remplacer 'code-utilisateur' par le nom de votre compte GitHub et 'nom-de-depot-github' par le nom de votre dépôt GitHub dans la valeur de la propriété.."
+ 
 }
