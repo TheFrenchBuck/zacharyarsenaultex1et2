@@ -1,0 +1,12 @@
+{
+	"Composant React": {
+		"prefix": "comp",
+		"body": [
+			"import './${1:nom}.css';",
+			"export default function ${1:nom}() {",
+			"",
+			"}"
+		]
+	}
+
+}
