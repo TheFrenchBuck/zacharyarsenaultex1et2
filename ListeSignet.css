@@ -1,0 +1,16 @@
+.ListeSignet {
+  padding: 2rem;
+}
+
+.ListeSignet h2 {
+  font-size: 2rem;
+}
+
+.ListeSignet .Signets {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 40px;
+}
+/*# sourceMappingURL=ListeSignet.css.map */
