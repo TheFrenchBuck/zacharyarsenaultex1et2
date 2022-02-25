@@ -1,0 +1,31 @@
+.Entete{
+    display: flex;
+    flex-direction: row;
+background-color: black;
+margin: 0;
+color: white;
+justify-content: space-between;
+align-items: center;
+    img{
+    width: 30px;
+    }
+
+}
+.section-utilisateur{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    .avatar{
+        margin-right: 1rem;
+        margin-left: 2rem;
+    
+    }
+    .nom-utilisateur{
+        font-size: .8rem;
+        color: white;
+    
+        
+    }
+
+}

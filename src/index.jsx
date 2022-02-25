@@ -5,7 +5,7 @@ import Appli from './Appli';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Appli />
+    <Appli/>
   </React.StrictMode>,
   document.getElementById('racine')
 );
