@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/za_application_monopage_signets/static/css/main.253a41a3.css",
-    "main.js": "/za_application_monopage_signets/static/js/main.dc30ca0e.js",
-    "index.html": "/za_application_monopage_signets/index.html",
-    "main.253a41a3.css.map": "/za_application_monopage_signets/static/css/main.253a41a3.css.map",
-    "main.dc30ca0e.js.map": "/za_application_monopage_signets/static/js/main.dc30ca0e.js.map"
+    "main.css": "/zacharyarsenaultex1et2/static/css/main.253a41a3.css",
+    "main.js": "/zacharyarsenaultex1et2/static/js/main.dc30ca0e.js",
+    "index.html": "/zacharyarsenaultex1et2/index.html",
+    "main.253a41a3.css.map": "/zacharyarsenaultex1et2/static/css/main.253a41a3.css.map",
+    "main.dc30ca0e.js.map": "/zacharyarsenaultex1et2/static/js/main.dc30ca0e.js.map"
   },
   "entrypoints": [
     "static/css/main.253a41a3.css",
